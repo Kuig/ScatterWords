@@ -2,7 +2,7 @@
 
 `ScatterWords` is a very simple Windows application that lets you scatter each line of a text file over a 2D blackboard. I wrote this C# disaster in a hurry 'cause I needed a quick tool to manually cluster some text data.
 
-If you're not interested in the code, you can download the executable [here](https://github.com/Kuig/ScatterWords/raw/master/ScatterWords%20Build%2020170609.zip).
+If you're not interested in the code, just check out the release section.
 
 ## Screenshot
 
